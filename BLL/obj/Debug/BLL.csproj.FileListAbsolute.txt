@@ -1,0 +1,11 @@
+C:\Users\Canh\Desktop\Quanlynganhangcauhoi_PhamHongCanh\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Canh\Desktop\Quanlynganhangcauhoi_PhamHongCanh\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Canh\Desktop\Quanlynganhangcauhoi_PhamHongCanh\BLL\bin\Debug\BLL.dll
+C:\Users\Canh\Desktop\Quanlynganhangcauhoi_PhamHongCanh\BLL\bin\Debug\BLL.pdb
+C:\Users\Canh\Desktop\Quanlynganhangcauhoi_PhamHongCanh\BLL\bin\Debug\DAO.dll
+C:\Users\Canh\Desktop\Quanlynganhangcauhoi_PhamHongCanh\BLL\bin\Debug\Entitys.dll
+C:\Users\Canh\Desktop\Quanlynganhangcauhoi_PhamHongCanh\BLL\bin\Debug\DAO.pdb
+C:\Users\Canh\Desktop\Quanlynganhangcauhoi_PhamHongCanh\BLL\bin\Debug\Entitys.pdb
+C:\Users\Canh\Desktop\Quanlynganhangcauhoi_PhamHongCanh\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Canh\Desktop\Quanlynganhangcauhoi_PhamHongCanh\BLL\obj\Debug\BLL.dll
+C:\Users\Canh\Desktop\Quanlynganhangcauhoi_PhamHongCanh\BLL\obj\Debug\BLL.pdb

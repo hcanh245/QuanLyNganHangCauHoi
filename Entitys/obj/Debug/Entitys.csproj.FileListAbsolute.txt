@@ -1,0 +1,6 @@
+C:\Users\Canh\Desktop\Quanlynganhangcauhoi_PhamHongCanh\Entitys\bin\Debug\Entitys.dll
+C:\Users\Canh\Desktop\Quanlynganhangcauhoi_PhamHongCanh\Entitys\bin\Debug\Entitys.pdb
+C:\Users\Canh\Desktop\Quanlynganhangcauhoi_PhamHongCanh\Entitys\obj\Debug\Entitys.csproj.AssemblyReference.cache
+C:\Users\Canh\Desktop\Quanlynganhangcauhoi_PhamHongCanh\Entitys\obj\Debug\Entitys.csproj.CoreCompileInputs.cache
+C:\Users\Canh\Desktop\Quanlynganhangcauhoi_PhamHongCanh\Entitys\obj\Debug\Entitys.dll
+C:\Users\Canh\Desktop\Quanlynganhangcauhoi_PhamHongCanh\Entitys\obj\Debug\Entitys.pdb
